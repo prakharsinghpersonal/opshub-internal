@@ -1,0 +1,1 @@
+# opshub-internal\n\n**OpsHub: Internal Workflow Manager - Full-stack internal productivity tool to track cross-team engineering metrics.**\n\n## Tech Stack\n- JavaScript\n- Node.js\n- Express\n- PostgreSQL\n- Jest\n
